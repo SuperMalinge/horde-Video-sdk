@@ -1,8 +1,0 @@
-{
-    "name": "My Awesome Collection",
-    "info": "Collection of optimistic styles",
-    "public": true,
-    "styles": [
-        "a"
-    ]
-}
